@@ -24,24 +24,6 @@ I focus on:
 
 ---
 
-## 🧠 Core Project (Flagship System)
-
-### 💎 AI Student Intelligence System
-
-A full-stack AI platform designed to:
-
-- 📊 Analyze student performance  
-- 🤖 Predict outcomes using machine learning  
-- 💬 Provide guidance via AI chatbot  
-- 📈 Visualize progress with dashboards  
-
-**Why it matters:**
-- Combines ML + NLP + Data Systems  
-- Built as a **real product**, not a demo  
-- Designed for scalability and deployment  
-
----
-
 ## ⚡ Why I Stand Out
 
 - 🧠 I build **end-to-end AI systems**, not isolated projects  
@@ -78,24 +60,6 @@ A full-stack AI platform designed to:
   <img src="https://github-readme-stats.vercel.app/api?username=AgentScarletFox&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgentScarletFox&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-## 🔥 High-Impact Projects
-
-### 🧠 AI Automation System
-- Automates repetitive workflows  
-- File handling + task execution  
-- Designed for productivity scaling  
-
-### 🤖 AI Chatbot (NLP-Based)
-- Context-aware responses  
-- Expandable to memory-based system  
-- Built for real user interaction  
-
-### 📊 AI Prediction Engine
-- Machine learning-based forecasting  
-- Converts data → insights → decisions  
 
 ---
 
