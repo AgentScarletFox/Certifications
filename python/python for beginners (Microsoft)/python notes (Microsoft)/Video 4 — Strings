@@ -1,0 +1,19 @@
+Video 4 — Strings
+
+Overview:
+Strings are sequences of characters. Supports indexing, slicing, concatenation, and formatting. Essential for I/O and text processing.
+
+Key Concepts:
+
+f-strings for readable formatting
+String methods: .upper(), .lower(), .replace()
+
+Example:
+
+name = "Alice"
+greeting = f"Hello, {name}!"
+print(greeting)
+
+Practical Insights:
+
+Strings are crucial in reporting, user interaction, and data parsing
