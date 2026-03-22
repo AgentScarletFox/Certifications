@@ -1,0 +1,13 @@
+Video 37 — Dates and Time
+
+Overview:
+Use datetime for timestamps and scheduling.
+
+Example:
+
+from datetime import datetime
+now = datetime.now()
+
+Practical Insights:
+
+Crucial for logs, automation, and scheduling
