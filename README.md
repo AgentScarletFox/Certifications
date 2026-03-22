@@ -12,45 +12,71 @@
 
 ## 🚀 About Me
 
-I don’t just learn AI — I design and deploy **intelligent systems** that:
+I don’t just learn AI — I design and build **intelligent systems** that:
 
-- automate real-world workflows  
-- generate actionable insights  
-- evolve into usable products  
+* automate real-world workflows
+* generate actionable insights
+* evolve into scalable products
 
 I focus on:
 
-> **AI Systems × Automation × Real-World Impact**
+> **AI Systems × Automation × Execution**
 
 ---
 
 ## ⚡ Why I Stand Out
 
-- 🧠 I build **end-to-end AI systems**, not isolated projects  
-- ⚙️ I focus on **real-world usability and deployment**  
-- 💰 I design projects with **monetization in mind**  
-- 🚀 I think like an **engineer + product builder**
+* 🧠 I build **systems**, not isolated scripts
+* ⚙️ I focus on **real-world usability + deployment**
+* 💰 I design with **monetization in mind**
+* 🔄 I apply **professional development workflows (Git, version control, collaboration)**
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge\&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge\&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge\&logo=scikitlearn)
 
 ### 📊 Data
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge\&logo=numpy)
 
 ### ⚙️ Tools & Deployment
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
 ![APIs](https://img.shields.io/badge/APIs-000?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge\&logo=streamlit)
+
+---
+
+## 🚀 Git Mastery Projects
+
+> Demonstrating real-world version control, collaboration workflows, and system-level thinking
+
+### 🔹 Git Workflow Simulator
+
+Simulates professional development workflow using branching strategies, pull requests, and structured commits
+👉 https://github.com/yourusername/git-workflow-simulator
+
+### 🔹 Merge Conflict Master
+
+Demonstrates advanced conflict resolution and version control problem-solving
+👉 https://github.com/yourusername/merge-conflict-master
+
+### 🔹 Open Source Contributions
+
+Active contributions to real-world repositories with pull requests and collaboration
+👉 https://github.com/yourusername/open-source-contributions
 
 ---
 
@@ -64,31 +90,34 @@ I focus on:
 ---
 
 ## 🏗️ Engineering Approach
-Data → Model → Intelligence → Interface → Deployment
 
-Every project I build:
-- solves a real problem  
-- is structured like a system  
-- can evolve into a product  
+**Data → Model → Intelligence → Interface → Deployment → Iteration**
+
+Every system I build:
+
+* solves a real-world problem
+* is structured for scalability
+* follows version-controlled development
+* can evolve into a product
 
 ---
 
 ## 📈 Execution Roadmap
 
-| Phase | Focus |
-|------|------|
-| Current | Core AI System Development |
-| Next | Advanced ML + NLP Integration |
-| Scaling | Deployment + Real Users |
-| Future | AI Products + Research |
+| Phase   | Focus                         |
+| ------- | ----------------------------- |
+| Current | Git Mastery + Core AI Systems |
+| Next    | Advanced ML + NLP Systems     |
+| Scaling | Deployment + Real Users       |
+| Future  | AI Products + Research        |
 
 ---
 
 ## 🧪 Research Direction
 
-- AI in Personalized Learning  
-- Predictive Systems for Education  
-- Intelligent Automation Systems  
+* AI in Personalized Learning
+* Predictive Systems for Education
+* Intelligent Automation Systems
 
 ---
 
@@ -96,29 +125,31 @@ Every project I build:
 
 I actively convert systems into products:
 
-- AI Study Tools  
-- Resume Analyzer  
-- Automation Toolkits  
+* AI Study Tools
+* Resume Analyzer
+* Automation Toolkits
 
 Focus:
+
 > **Build → Deploy → Monetize → Scale**
 
 ---
 
 ## 🎯 Career Vision
 
-- **Role:** AI / ML Engineer  
-- **Focus:** Intelligent Systems & Automation  
-- **Goal:** Build impactful AI products and research-driven systems  
+* **Role:** AI / ML Engineer
+* **Focus:** Intelligent Systems & Automation
+* **Goal:** Build impactful AI systems and research-driven products
 
 ---
 
 ## 📬 Let’s Connect
 
 Open to:
-- Internships  
-- AI collaborations  
-- Building real-world systems  
+
+* Internships
+* AI collaborations
+* System-building opportunities
 
 ---
 
@@ -127,4 +158,4 @@ Open to:
 > “I don’t just prepare for opportunities.
 > I build systems that prove I’m ready for them.”
 
-I follow a system-first methodology:
+I follow a **system-first, execution-driven methodology**.
