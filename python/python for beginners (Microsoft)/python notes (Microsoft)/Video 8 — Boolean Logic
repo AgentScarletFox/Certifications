@@ -1,0 +1,19 @@
+Video 8 — Boolean Logic
+
+Overview:
+Boolean logic allows combining multiple conditions using and, or, not.
+
+Key Concepts:
+
+Short-circuit evaluation
+Boolean expressions are the foundation of program logic
+
+Example:
+
+if age >= 18 and citizen:
+    print("Eligible to vote")
+
+Practical Insights:
+
+Enables complex decision-making
+Crucial for validating multiple conditions simultaneously
