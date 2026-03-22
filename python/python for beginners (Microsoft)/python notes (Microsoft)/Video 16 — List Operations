@@ -1,0 +1,19 @@
+Video 16 — List Operations
+
+Overview:
+Indexing, slicing, adding, and modifying list elements.
+
+Key Concepts:
+
+list[index] access
+list[start:end] slicing
+
+Example:
+
+fruits[1] = "orange"
+print(fruits[0:2])
+
+Practical Insights:
+
+Efficient data manipulation
+Enables sublist operations and dynamic updates
