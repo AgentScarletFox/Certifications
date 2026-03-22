@@ -1,0 +1,13 @@
+Video 19 — Dictionary Manipulation
+
+Overview:
+Add, update, delete, and retrieve key-value pairs.
+
+Example:
+
+person["city"] = "Seoul"
+del person["age"]
+
+Practical Insights:
+
+Ideal for mapping IDs, configurations, JSON-like data
