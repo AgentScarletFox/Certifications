@@ -1,0 +1,13 @@
+Video 36 — String Parsing
+
+Overview:
+Extract data using split, find, and regex.
+
+Example:
+
+email = "user@example.com"
+username = email.split("@")[0]
+
+Practical Insights:
+
+Essential for data cleaning and extraction
