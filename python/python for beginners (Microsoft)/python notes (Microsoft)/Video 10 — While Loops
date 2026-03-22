@@ -1,0 +1,21 @@
+Video 10 — While Loops
+
+Overview:
+while loops execute code repeatedly as long as a condition is true.
+
+Key Concepts:
+
+Condition must eventually become false to avoid infinite loops
+Useful for event-driven or interactive programs
+
+Example:
+
+i = 0
+while i < 5:
+    print(i)
+    i += 1
+
+Practical Insights:
+
+Useful for repeating tasks until a condition changes
+Combine with break and continue for more control
