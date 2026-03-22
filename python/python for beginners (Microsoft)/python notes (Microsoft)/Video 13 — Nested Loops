@@ -1,0 +1,19 @@
+Video 13 — Nested Loops
+
+Overview:
+Loops inside loops allow working with multi-dimensional structures.
+
+Key Concepts:
+
+Each inner loop completes before the outer loop advances
+Useful for grids, matrices, and combinatorics
+
+Example:
+
+for i in range(3):
+    for j in range(2):
+        print(i, j)
+
+Practical Insights:
+
+Essential for table processing or image/grid tasks
