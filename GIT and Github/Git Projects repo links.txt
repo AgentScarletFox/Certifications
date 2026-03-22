@@ -4,5 +4,5 @@ Simulates professional development workflow using branching strategies, pull req
 🔹 Merge Conflict Master
 Demonstrates advanced conflict resolution and version control problem-solving 👉 https://github.com/AgentScarletFox/merge-conflict-master
 
-🔹 Open Source Contributions
-Active contributions to real-world repositories with pull requests and collaboration 👉 https://github.com/yourusername/open-source-contributions
+🔹 Git Release System
+Implements structured release workflows with collaborative contributions 👉 https://github.com/AgentScarletFox/git-release-system
