@@ -1,0 +1,13 @@
+Video 28 — JSON Handling
+
+Overview:
+Parse/generate structured data for APIs and system integration.
+
+Example:
+
+import json
+data = json.loads('{"name":"Alice"}')
+
+Practical Insights:
+
+JSON is critical for web APIs and automation
