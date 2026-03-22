@@ -1,0 +1,15 @@
+Video 24 — Error Handling
+
+Overview:
+try-except prevents crashes and handles errors gracefully.
+
+Example:
+
+try:
+    x = int("abc")
+except ValueError:
+    print("Invalid input")
+
+Practical Insights:
+
+Essential for robust, user-friendly programs
