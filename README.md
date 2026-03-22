@@ -66,7 +66,7 @@ I focus on:
 ### 🔹 Git Workflow Simulator
 
 Simulates professional development workflow using branching strategies, pull requests, and structured commits
-👉 https://github.com/yourusername/git-workflow-simulator
+👉https://github.com/AgentScarletFox/git-workflow-simulator
 
 ### 🔹 Merge Conflict Master
 
