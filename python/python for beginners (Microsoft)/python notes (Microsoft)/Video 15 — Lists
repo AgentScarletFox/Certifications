@@ -1,0 +1,17 @@
+Video 15 — Lists
+
+Overview:
+Ordered, mutable collections storing multiple elements. Supports indexing, slicing, and iteration.
+
+Key Concepts:
+
+Can contain mixed data types
+Core data structure for storing sequences
+
+Example:
+
+fruits = ["apple", "banana", "cherry"]
+
+Practical Insights:
+
+Fundamental for datasets and dynamic collections
