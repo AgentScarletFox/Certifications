@@ -1,0 +1,12 @@
+Video 43 — Efficient Code
+
+Overview:
+Optimize loops, avoid redundancy, use list comprehensions.
+
+Example:
+
+squares = [x*x for x in range(10)]
+
+Practical Insights:
+
+Enhances performance for large datasets
