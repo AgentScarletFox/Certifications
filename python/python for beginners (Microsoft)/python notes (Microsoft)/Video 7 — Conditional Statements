@@ -1,0 +1,19 @@
+Video 7 — Conditional Statements
+
+Overview:
+Use if statements to execute code based on conditions. Controls the program’s flow depending on boolean expressions.
+
+Key Concepts:
+
+Comparison operators: ==, !=, <, >
+Boolean expressions evaluate to True or False
+
+Example:
+
+if age >= 18:
+    print("Adult")
+
+Practical Insights:
+
+Fundamental for decision-making
+Can be combined with loops for complex logic
