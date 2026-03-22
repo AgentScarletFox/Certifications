@@ -1,0 +1,14 @@
+Video 23 — Scope
+
+Overview:
+Local vs global variables control visibility and lifetime.
+
+Example:
+
+x = 5
+def func():
+    x = 10  # local
+
+Practical Insights:
+
+Prevent bugs by controlling variable scope
