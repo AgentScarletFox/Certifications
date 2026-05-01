@@ -1,0 +1,182 @@
+# 🧠 CS50x 2026 — Week 0: Scratch (Notes + Insights)
+
+## 🔹 1. What is Computer Science (from Week 0 perspective)
+
+Computer Science is not just programming — it is **problem solving using structured thinking**.
+
+At its core:
+
+* Input → Process → Output
+* Break complex problems into smaller steps (**decomposition**)
+
+👉 Insight:
+Before writing code, the real skill is learning **how to think clearly and logically**.
+
+---
+
+## 🔹 2. Algorithms (Thinking before coding)
+
+An **algorithm** is a step-by-step procedure to solve a problem.
+
+Example:
+Task: Find a name in a phonebook
+
+* Linear Search → check one by one
+* Binary Search → divide and conquer (faster)
+
+👉 Key Idea:
+Efficiency matters.
+Not all solutions are equal.
+
+👉 Ivy-Level Insight:
+Understanding *why one approach is faster* is more important than just solving the problem.
+
+---
+
+## 🔹 3. Abstraction
+
+Abstraction means **hiding complexity and focusing on what matters**.
+
+Example:
+
+* Using a function without knowing its internal code
+
+In Scratch:
+
+* Blocks simplify programming logic
+
+👉 Insight:
+Great programmers don’t handle everything at once — they build layers.
+
+---
+
+## 🔹 4. Introduction to Scratch
+
+Scratch is a visual programming language that uses blocks instead of text.
+
+Key Features:
+
+* Drag-and-drop blocks
+* No syntax errors (focus on logic)
+* Event-driven programming
+
+👉 Why Scratch matters:
+
+* Removes syntax barrier
+* Forces focus on logic, flow, and structure
+
+---
+
+## 🔹 5. Core Programming Concepts (via Scratch)
+
+### 🟢 Variables
+
+Store data (like score, name)
+
+### 🟡 Conditionals
+
+* If / Else
+* Decision making
+
+Example:
+If score > 10 → Win
+
+---
+
+### 🔵 Loops
+
+* Repeat actions
+
+Types:
+
+* Forever loop
+* Repeat n times
+
+👉 Insight:
+Automation is a core power of programming.
+
+---
+
+### 🔴 Events
+
+* “When green flag clicked”
+* “When key pressed”
+
+👉 Insight:
+Programs respond to inputs → real-world interaction
+
+---
+
+### 🟣 Functions (Custom Blocks)
+
+* Reusable code
+
+👉 Insight:
+Avoid repetition → write cleaner systems
+
+---
+
+## 🔹 6. Parallelism
+
+Scratch allows multiple scripts to run at the same time.
+
+👉 Insight:
+Real-world systems are not linear — they run simultaneously.
+
+---
+
+## 🔹 7. Debugging
+
+Errors are part of the process.
+
+Steps:
+
+* Identify problem
+* Test small parts
+* Fix and retry
+
+👉 Ivy-Level Insight:
+Debugging is not failure — it is **evidence of learning and iteration**.
+
+---
+
+## 🔹 8. Problem-Solving Mindset
+
+CS50 emphasizes:
+
+* Think step-by-step
+* Don’t rush to code
+* Test assumptions
+
+👉 Personal Reflection:
+Starting with Scratch shows that programming is not about memorizing syntax, but about **building structured thinking**.
+
+---
+
+## 🔹 9. Mini Project Ideas (from Week 0)
+
+* Simple game (catch object)
+* Interactive story
+* Quiz system
+
+👉 Insight:
+Even simple tools can create engaging systems when logic is clear.
+
+---
+
+# 🚀 Final Reflection 
+
+Week 0 is not “basic” — it is foundational.
+
+Learning Scratch taught me:
+
+* How to break down problems
+* How to think algorithmically
+* How to design before building
+
+This week shifts the mindset from:
+❌ “I want to code”
+to
+✅ “I want to solve problems systematically”
+* A **perfect GitHub README for your Scratch project**
+* Or a **LinkedIn post that makes this look elite (not generic)**
